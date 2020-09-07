@@ -1,4 +1,4 @@
-package Innlevering2;
+package Programmeringsoppgåve1;
 
 import static javax.swing.JOptionPane.*;
 
